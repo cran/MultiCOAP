@@ -1,0 +1,13 @@
+1216dae05bf7550fa2758632a35b614a *DESCRIPTION
+def65db69c70c785558ce825c04121cd *NAMESPACE
+5bb184c2ebf40e5055959b82828e936f *R/RcppExports.R
+fffdf93f8035780394a4136c148d0fb2 *R/gendata.R
+37f3ad4ff69ad9014c2ce4bb00a29736 *R/mcoap.R
+9dc823fc5208cc907d576495186fd7c4 *man/MSFRVI.Rd
+e9697be8399022b767c37d27e2b5404a *man/MultiCOAP.Rd
+bfb4da31ce9acfa51de285e47936e17b *man/gendata_simu_multi2.Rd
+b5147d7ae7f15f8842aa0c1c2b9c3fed *src/MSFRVI.cpp
+6bcee6df7622505b45514c7fcc990ff2 *src/Makevars
+6bcee6df7622505b45514c7fcc990ff2 *src/Makevars.win
+cd6e5bb29a21678431c3a36e01ccc5d3 *src/MuCOAP.cpp
+9fdb721480ed1631303f9d82ea64ec94 *src/RcppExports.cpp
